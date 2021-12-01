@@ -17,7 +17,7 @@ public class FirstProgram
         if (a==b)
         {
             System.out.println("Sayılar Eşit");
-        } 
+        }
 
 
 
